@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgadgets.ndtv.com%2Fapps%2Ffeatures%2Fpokemon-go-how-to-catch-pikachu-863061&psig=AOvVaw2bcYG7ZZZh8yOyJfhL430D&ust=1612325643197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCkspyryu4CFQAAAAAdAAAAABAI)
