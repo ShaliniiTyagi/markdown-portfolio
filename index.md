@@ -1,4 +1,4 @@
-* Pizzas :heart:
-* Chocolates :smile:
-  * Dark Chocolate
-  * Milk Chocolate
+- Pizzas :heart:
+- Chocolates :smile:
+  - Dark Chocolate 
+  - Milk Chocolate
