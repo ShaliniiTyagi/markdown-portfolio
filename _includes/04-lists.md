@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Pasta :heart:
+- Chinese :smile:
+- Indian
+- How longer a list!!!
+- Pizzas
+- Chocolates
+  - Dark Chocolate 
+  - Milk Chocolate
