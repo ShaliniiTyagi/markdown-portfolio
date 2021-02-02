@@ -2,7 +2,7 @@
 - Chinese
 - Indian
 - How longer a list!!!
-- Pizzas :heart:
-- Chocolates :smile:
+- Pizzas
+- Chocolates
   - Dark Chocolate 
   - Milk Chocolate
