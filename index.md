@@ -4,5 +4,5 @@
 - How longer a list!!!
 - Pizzas
 - Chocolates
-  - Dark Chocolate 
-  - Milk Chocolate
+- Dark Chocolate 
+- Milk Chocolate
